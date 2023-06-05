@@ -26,6 +26,8 @@ This project demonstrates a method to automatically choose the number of cluster
 6. The distribution of clusters will be plotted in a bar chart.
 
 7. The clusters will be visualized on a map.
+## References
+https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
 
 ## Example
 
@@ -63,5 +65,4 @@ plt.title('Cluster Visualization')
 plt.legend()
 plt.grid(True)
 plt.show()
-# References
-https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
+
