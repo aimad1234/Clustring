@@ -1,5 +1,5 @@
 # Automatic Clustering of Coordinates
-#Selection  Number of Clusters Using BIC Score from GMM
+# Selection  Number of Clusters Using BIC Score from GMM
 
 This project demonstrates a method to automatically choose the number of clusters for clustering geographical coordinates using Gaussian Mixture Models (GMM) and K-means algorithm. It provides visualizations of the cluster distribution and cluster visualization on a map.
 
