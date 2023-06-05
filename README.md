@@ -27,7 +27,9 @@ This project demonstrates a method to automatically choose the number of cluster
 
 7. The clusters will be visualized on a map.
 ## References
-https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
+1. https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
+2. https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+3. https://www.datacamp.com/tutorial/k-means-clustering-python
 
 ## Example
 
