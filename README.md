@@ -63,3 +63,5 @@ plt.title('Cluster Visualization')
 plt.legend()
 plt.grid(True)
 plt.show()
+# References
+https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html
